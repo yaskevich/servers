@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+circle {
+  stroke-width: 1.5px;
+}
+
+line {
+  stroke: #999;
+}
+
+</style>
+<title>Web servers clusters</title>
+<body>
+<link rel="stylesheet" href="tip.css">
+<script src="d3.v3.min.js"></script>
+<script src="d3tip.js"></script>
+<script>
+
+var width = 1300,
+    height = 950,
+    radius = 6;
+
+var fill = d3.scale.category20();
+
+var force = d3.layout.force()
+    .gravity(.7)
+    .charge(-90)
+    .linkDistance(10)
+    .size([width, height]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+//d3.csv("server-header.csv?c1c", function(error, servers) {
+d3.csv("d0105d8a-d48a-4b81-8ec4-769130354318-000000000000.csv?c1c", function(error, servers) {
+  if (error) throw error;
+	
+	tip = d3.tip().attr('class', 'd3-tip').html(function(d) {
+		return d.name; 
+		//return d.os; 
+	});
+	svg.call(tip);
+  
+  	var graph = new Object();
+	graph.nodes = [];
+	graph.links = [];  
+	
+	var h = new Object(); 
+	var n = 0;
+	
+	var oses = new Object();
+	
+	
+	graph.nodes.push({'id': n, 'name': 'nothing', 'os':'no', 'group': 1});	
+	//var chunk = servers.slice(0, 5000);
+	var chunk = servers;
+	chunk.forEach(function(d, i) { 
+//		console.log(d.p80_http_get_headers_server);
+		var ns = d.p80_http_get_headers_server;
+		
+		var web = ns.split('/')[0].split(' ')[0] || "offline";
+		//if (web !== 'Apache'){
+		//	return;
+		//}
+		var os = /\((.*?)\)/.exec(ns);
+		var pid = 0;
+		if (os)  { 
+			os = os[1]; 
+			oses[os] = (os in oses)?++oses[os]:1;
+		};
+		
+		if (h[web]){
+			pid = h[web];
+		} else {
+			if (web){
+			++n;
+			graph.nodes.push({'id': n, 'name': web, 'group': 2, 'color': 1});
+			h[web] = n;
+			pid = n;
+			} else {
+			}
+		}
+		++n;
+		graph.nodes.push({'id': n, 'os': os, 'name': ns || "offline", 'group': 1, 'color': 1});
+		graph.links.push ({'source': pid, 'target': n});
+		
+		
+	});
+	
+	console.log(JSON.stringify(oses));
+  
+  var link = svg.selectAll("line")
+      .data(graph.links)
+    .enter().append("line");
+
+  var node = svg.selectAll("circle")
+      .data(graph.nodes)
+    .enter().append("circle")
+      //.attr("r", radius - .75)
+      .attr("r", function(d) { return d.group*radius; })
+      .style("fill", function(d) { return fill( (d.group === 2) ? d.name: d.os ) })
+      .style("stroke", function(d) { return d3.rgb(fill(d.os)).darker(); })
+	   .on('mouseover', tip.show)
+		.on('mouseout', tip.hide)
+		//;
+      .call(force.drag);
+
+  force
+      .nodes(graph.nodes)
+      .links(graph.links)
+      .on("tick", tick)
+      .start();
+
+  function tick() {
+    node.attr("cx", function(d) { return d.x = Math.max(radius, Math.min(width - radius, d.x)); })
+        .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(height - radius, d.y)); });
+
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+  }
+});
+
+</script>

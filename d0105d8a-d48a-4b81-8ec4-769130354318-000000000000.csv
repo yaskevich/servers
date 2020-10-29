@@ -1,0 +1,1096 @@
+p80_http_get_headers_server,server_header_counter
+Router Webserver,3949
+RomPager/4.07 UPnP/1.0,2976
+nginx,1393
+Microsoft-IIS/10.0,1301
+Apache,1115
+httpd,965
+micro_httpd,909
+Ag [47],750
+Microsoft-IIS/7.5,703
+Mini web server 1.0 ZTE corp 2005.,703
+uc-httpd 1.0.0,542
+Apache/2.2.15 (CentOS),476
+Microsoft-IIS/8.5,375
+DNVRS-Webs,371
+App-webs/,369
+nginx/1.6.2,346
+Apache/2.2.22 (Debian),332
+nginx/1.8.0,330
+Apache/2.4.7 (Ubuntu),314
+gws,309
+nginx/1.10.2,284
+nginx/1.10.1,271
+GoAhead-Webs,265
+Microsoft-HTTPAPI/2.0,258
+Apache/2.4.10 (Debian),249
+mini_httpd/1.19 19dec2003,221
+Microsoft-IIS/6.0,214
+cisco-IOS,209
+antid,208
+nginx/1.8.1,180
+Apache/2.2.16 (Debian),170
+RomPager/4.51 UPnP/1.0,147
+Swift1.0,145
+nginx/1.2.1,139
+nginx/1.4.6 (Ubuntu),138
+lighttpd/1.4.28,133
+Boa/0.94.14rc21,132
+alphapd,132
+squid/3.5.20,128
+httpd/2.0,125
+lighttpd/1.4.31,124
+DVRDVS-Webs,122
+GoAhead-Webs/2.5.0 PeerSec-MatrixSSL/3.1.3-OPEN,118
+Apache-Coyote/1.1,118
+Hikvision-Webs,113
+"",110
+Web Server,109
+Router,108
+Apache/2.4.18 (Ubuntu),91
+Web server,88
+WebServer,79
+Microsoft-IIS/8.0,78
+Boa/0.94.13,73
+Apache/2.2.22 (Ubuntu),69
+nginx/0.8.54,65
+nginx/1.1.19,65
+Cross Web Server,64
+Microsoft-IIS/7.0,59
+nginx/1.10.0 (Ubuntu),58
+nginx/1.0.15,57
+Waveplus HTTPD,57
+dcs-lig-httpd,56
+Lotus-Domino,52
+Apache/2.2.3 (CentOS),46
+thttpd/2.25b 29dec2003,41
+Tengine,40
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g,39
+Apache/2.2.25 (Win32),38
+Apache/2.2.15 (Win32),35
+Apache/2.2.22 (Win32),35
+Microsoft-IIS/5.1,35
+TAS-Tech IPCam,34
+Apache/2.4.6 (CentOS),33
+nginx/1.4.7,33
+Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,33
+nginx/0.7.67,32
+lighttpd/1.4.43,31
+nginx/1.4.4,30
+Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8e-fips-rhel5 PHP/5.3.6,29
+nginx/1.6.0,29
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.4.16,28
+WebServer/1.0 UPnP/1.0,28
+Mathopd/1.5p6,26
+lighttpd/1.4.35,26
+lighttpd/1.4.39,26
+Linux/2.x UPnP/1.0 Avtech/1.0,26
+Check Point SVN foundation,26
+nginx/1.6.3,25
+Apache/2.4.10 (Raspbian),25
+Apache/2.4.6 (CentOS) PHP/5.4.16,24
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g mod_fcgid/2.3.5,23
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16,23
+Apache/2,23
+Apache/2.2.22 (@RELEASE@),22
+nginx/1.10.0,22
+nginx/1.9.10,22
+GeoHttpServer,22
+Apache/2.4.12 (Ubuntu),21
+mhttpd v1.1,21
+WindWeb/4.00,20
+nginx/1.2.3,20
+nginx/1.2.4,20
+AkamaiGHost,20
+nginx/1.4.3,19
+Kerio Control Embedded Web Server,18
+AR,18
+Transmission,18
+Apache/2.2.3 (Red Hat),17
+Apache/2.2.24 (Amazon),17
+WowzaStreamingEngine/4.4.1,17
+nginx/0.6.32,17
+lighttpd/1.4.32,15
+Apache/2.2.14 (Ubuntu),15
+Apache/1.3.42 (Unix) PHP/5.3.5 with Suhosin-Patch,15
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.21,15
+WCY_WEBServer/2.0,15
+nginx/1.6.1,14
+Mbedthis-Appweb/2.4.2,14
+Apache/2.0.55 (Win32) PHP/5.1.1,14
+nginx/1.2.5,14
+nginx/1.7.3,13
+nginx/1.11.3,13
+Ubicom/1.1,13
+SimpleHTTP/0.6 Python/2.7.6,13
+uc-httpd/1.0.0,13
+tfc-webserver/1.0.0,13
+nginx/1.11.5,13
+Apache/2.2.16 (Debian) mod_ssl/2.2.16 OpenSSL/0.9.8o mod_fcgid/2.3.6,13
+Boa/0.93.15,13
+Apache/2.2.12 (Linux/SUSE),12
+nginx/1.9.3 (Ubuntu),12
+IPWEBS/1.4.0,12
+Apache/2.2.27 (Win32) PHP/5.3.28,12
+Apache/2.4.23 (cPanel) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,12
+TP-LINK Router,12
+thttpd/2.25b PHP/20030920,12
+CPWS,12
+Apache/2.2.11 (Win32),11
+nginx/0.7.65,11
+HP-iLO-Server/1.30,11
+nginx/1.0.6,11
+nginx/1.2.6,11
+Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/FIPS,11
+CommuniGatePro/6.0.8,11
+ZyCfg,11
+nginx/0.8.55,11
+cloudflare-nginx,10
+Apache/2.4.10 (Win64),10
+Apache/2.2.15 (Red Hat),10
+nginx/1.7.6,10
+Kerio Connect 8.3.4 patch 1,10
+Oktell LS,10
+JAWS/1.0 Oct 13 2015,10
+Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1c PHP/5.3.13,10
+lighttpd/1.4.23,10
+lighttpd,10
+WebIOPi/0.7.1/Python3.2,9
+Httpd,9
+nginx admin,9
+Virata-EmWeb/R6_0_1,9
+Apache/2.2.17 (Win32),8
+Apache/2.4.9 (Win64) OpenSSL/1.0.1g PHP/5.6.3,8
+Apache/2.2.15 (Oracle),8
+http server 1.0,8
+Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9,8
+WindRiver-WebServer/4.7,8
+MoxaHttp/2.2,8
+PERCo Embedded server v1.0,8
+Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8q DAV/2 PHP/5.2.17 with Suhosin-Patch,8
+nginx/0.7.62,7
+nginx/1.4.1,7
+Apache/2.2.22 (Linux/SUSE),7
+WCY_WEBServer/1.0,7
+Kestrel,7
+Apache/2.4.10 (Ubuntu),7
+nginx/1.4.2,7
+Httpd v1.0 05may2008,7
+nginx/1.10.1 + Phusion Passenger 5.0.30,7
+nginx/1.11.4,7
+Apache/2.4.12 (Unix) OpenSSL/1.0.2,7
+Apache/1.3.41 (Unix),7
+Apache/2.0.40 (Red Hat Linux),7
+Allegro-Software-RomPager/4.62,7
+Cowboy,7
+nginx/1.2.8,7
+Allegro-Software-RomPager/4.30b3,7
+nginx/1.11.1,6
+TwistedWeb/13.2.0,6
+nginx/1.9.4,6
+Microsoft-IIS/5.0,6
+nginx/1.7.9,6
+lighttpd/1.4.42,6
+lighttpd/1.4.38,6
+Apache/2.2.8 (CentOS),6
+nginx/0.8.53,6
+nginx/1.2.7,6
+Apache/2.2.26 (FreeBSD) PHP/5.3.28 with Suhosin-Patch mod_ssl/2.2.26 OpenSSL/1.0.1e-freebsd DAV/2,6
+mhttpd v1.0,6
+Alpha_webserv,6
+nginx/1.11.2,6
+Mrvl-R1_0,6
+Apache/2.2.3 (Scientific Linux),6
+Apache/2.4.6 (Ubuntu),6
+Apache/2.2.11 (Unix) PHP/4.4.9,6
+Netwave IP Camera,6
+nginx/1.5.8,5
+Apache/2.2.16 (Debian) mod_ssl/2.2.16 OpenSSL/0.9.8o,5
+Kerio Connect 8.2.2,5
+Embedthis-http/4.0.0,5
+Apache/2.2.14 (Win32) PHP/5.3.22,5
+nginx/1.9.9,5
+Apache/2.2.27 (CentOS),5
+Apache/2.2.19 (Unix) PHP/5.2.17,5
+Apache/2.4.18 (Debian),5
+game server,5
+Apache/2.2.3 (Linux/SUSE),5
+ENIServer,5
+4D_WebStar_D/7.6,5
+Apache/2.2.15 (Win32) mod_ssl/2.2.15 OpenSSL/0.9.8n mod_auth_sspi/1.0.4,5
+nginx/1.9.3,5
+GoAhead/2.1.5,5
+Kerio Connect 9.1.1,5
+Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31,5
+Apache/2.2.22 (Win32) PHP/5.3.24,5
+GedeminHttpServer,5
+Apache/2.2.8 (Win32) PHP/5.2.6,5
+nginx/1.9.12,5
+Apache/2.2.9 (Unix) mod_ssl/2.2.9 OpenSSL/0.9.8o mod_wsgi/2.4 Python/2.6.2,5
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g mod_jk/1.2.26,5
+nginx/1.9.15,5
+btk,5
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.15,5
+Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15,5
+Apache/2.0.52 (Win32) PHP/5.2.4 DAV/2,5
+Apache/2.2.4 (Win32) PHP/5.2.6,5
+nginx/1.6.2 (Ubuntu),5
+MTBank Web Server,5
+Apache/2.2.6 (Fedora),5
+nginx/1.7.4,5
+Apache/2.2.31 (Win32),5
+nginx/1.0.4,4
+myracloud,4
+openresty,4
+JAWS/1.0 Nov 19 2013,4
+Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i PHP/5.2.9,4
+lighttpd/1.4.25-devel-f93da54,4
+HTTP Server 1.0,4
+TinyWeb/1.93,4
+Apache/1.3.41 (Unix) mod_gzip/1.3.26.1a mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 PHP/4.4.9 FrontPage/5.0.2.2634a mod_ssl/2.8.31 OpenSSL/0.9.7a,4
+Apache/2.2.11 (Win32) PHP/5.3.2,4
+Apache/2.0.64 (Win32),4
+Apache/2.2.10 (Win32),4
+lighttpd/1.4.28-devel-7497,4
+Apache/2.4.3 (Win32) OpenSSL/1.0.1c PHP/5.4.7,4
+NetPort Software 1.1,4
+Jetty(6.1.18),4
+Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,4
+Apache/2.0.59 (Win32),4
+thttpd/2.25b-lxc 29dec2003,4
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9,4
+Apache/2.4.23 (Unix) PHP/7.0.10,4
+Apache/2.2.14 (Win32),4
+Apache/2.2.15 (Scientific Linux),4
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.19,4
+Mbedthis-AppWeb/2.0.4,4
+PRTG/16.4.27.6845,4
+nginx/1.9.5,4
+Apache/2.2.23 (CentOS),4
+Boa/0.94.14rc20,4
+Apache/2.2.10 (Linux/SUSE),4
+Apache/2.2.11 (Fedora),4
+nginx/1.9.11,4
+Apache/2.2.23 (FreeBSD) PHP/5.3.23 DAV/2,4
+Apache/2.4.6,4
+Apache/2.2.31 (FreeBSD) PHP/5.4.44 mod_ssl/2.2.31 OpenSSL/1.0.2d DAV/2,4
+Apache/2.2.22 (Win32) PHP/5.2.10,4
+Mini Embedded Web Server,4
+Apache/2.4.23 (Win64) PHP/7.0.11,4
+Apache/2.4.23 (Unix),4
+Apache/2.4.9 (Win64) OpenSSL/1.0.1g PHP/5.5.12,4
+Apache/2.4.16 (Ubuntu),4
+Kerio Connect 8.3.1,4
+Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/1.0.0d mod_jk/1.2.28,4
+Apache/2.2.22,4
+Microsoft-HTTPAPI/1.0,4
+nginx/1.4.0,4
+MS-MFC-HttpSvr/1.1,3
+Citrix Web PN Server,3
+HFS 2.3i,3
+Apache/2.2.16 (Ubuntu),3
+lighttpd/1.4.13,3
+Apache/2.2.16,3
+Apache/2.2.20 (Ubuntu),3
+Switch,3
+Apache/2.2.17 (Ubuntu),3
+Serv-U/11.0.0.4,3
+Kerio Connect 8.5.2,3
+Apache/2.4.23 (Ubuntu),3
+Apache/2.0.52 (CentOS),3
+Traffic inspector HTTP/FTP/Proxy server (1.1.5.218),3
+BGPB_Server,3
+Apache/2.2.25 (FreeBSD) PHP/5.3.27 with Suhosin-Patch mod_ssl/2.2.25 OpenSSL/0.9.8y DAV/2,3
+Apache/2.2.14 (Win32) PHP/5.2.12,3
+VVTK-HTTP-Server,3
+JAWS/1.0 Jul  9 2013,3
+sw-cp-server,3
+lighttpd/1.4.36,3
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g mod_fcgid/2.3.6,3
+Server,3
+CommuniGatePro/6.1.11,3
+WildFly/9,3
+Snap/0.9.5.1,3
+Management Switch Web Server 0.01,3
+Apache/2.4.12 (Win32) OpenSSL/1.0.1m PHP/5.4.40,3
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch,3
+Apache/2.2.3 (Debian) mod_ssl/2.2.3 OpenSSL/0.9.8c,3
+Apache/1.3.33 (Win32) PHP/4.3.10,3
+Apache/1.3.34 (Win32) PHP/4.4.9,3
+OTT Client Boot Server,3
+nginx/1.0.8,3
+Apache/2.0.63 (CentOS) mod_ssl/2.0.63 OpenSSL/0.9.7a DAV/2 PHP/5.1.6,3
+Apache/2.0.52 (Red Hat),3
+lighttpd/1.4.19,3
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.4.16 mod_python/3.5.0- Python/2.7.5,3
+Apache/2.4.7,3
+Apache/2.2.4 (Win32) mod_ssl/2.2.4 OpenSSL/0.9.8k PHP/5.2.12,3
+Apache/2.2.22 (Win32) PHP/5.4.31,3
+Serv-U/15.1.3.3,3
+nginx/1.0.1,3
+Apache/2.2.17 (Win32) PHP/5.4.37,3
+Apache/2.4.6 (Linux/SUSE),3
+Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,3
+CommuniGatePro/6.1.8,3
+Apache/2.4.18 (Win32) PHP/5.6.19,3
+Apache/2.2.9,3
+nginx/1.2.0,3
+WindWeb/1.0,3
+Apache/2.4.20 (Ubuntu),3
+Apache/2.2.29 (Win32),3
+Kerio Connect 8.1.2,3
+Jetty(winstone-2.8),3
+Apache/2.2.22 (Debian) mod_fastcgi/mod_fastcgi-SNAP-0910052141 PHP/5.4.39-0+deb7u2,3
+Apache/2.4.23 (Debian),3
+Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips,3
+Kerio MailServer 6.7.3,3
+Apache/2.2.9 (Win32) mod_ssl/2.2.9 OpenSSL/0.9.8h PHP/5.2.9-2,3
+squid/2.7.STABLE9,3
+GlassFish Server Open Source Edition 3.1.2.2,3
+SonicWALL,3
+Web Server/2.1.0,3
+JBoss-EAP/7,3
+MoxaHttp/1.0,3
+nginx/0.8.49,3
+Apache/2.0.59 (Win32) PHP/5.1.6,3
+Apache/2.4.10,3
+Oracle-Application-Server-10g/10.1.2.0.0 Oracle-HTTP-Server,3
+Abyss/2.9.3.6-X2-Win32 AbyssLib/2.9.3.6,3
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny9 with Suhosin-Patch,3
+Apache/2.4.16 (Win64) PHP/5.6.11 OpenSSL/1.0.1p,3
+Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/0.9.8za DAV/2,3
+Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y mod_jk/1.2.39,2
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.20,2
+ATR-HTTP-Server/2.9.2,2
+Apache/2.0.64 (FreeBSD) PHP/5.2.17 with Suhosin-Patch,2
+Apache/1.3.41 (Unix) mod_perl/1.29 PHP/5.2.6,2
+Apache/2.2.14,2
+Apache/2.4.17 (Unix) OpenSSL/1.0.1q PHP/5.6.15 mod_perl/2.0.8-dev Perl/v5.16.3,2
+Apache/2.2.6 (FreeBSD) PHP/5.2.5 with Suhosin-Patch,2
+Apache/2.2.22 (Win32) mod_wsgi/3.3 Python/2.7.4,2
+Jetty(8.y.z-SNAPSHOT),2
+Apache/2.4.18 (Win64) PHP/7.0.5,2
+Apache/2.0.54 (ASPLinux),2
+ZyXEL-RomPager/3.02,2
+Apache/2.2.31 (Win32) mod_ssl/2.2.31 OpenSSL/1.0.2h mod_jk/1.2.41,2
+Xitami,2
+PDR-M800/1.0,2
+GlassFish Server Open Source Edition  4.1,2
+nginx/1.8.0 + Phusion Passenger 5.0.21,2
+Apache/2.4.12 (Red Hat) PHP/5.5.21,2
+Apache/2.2.25 (Win32) PHP/5.3.28,2
+ncnd.opera.com,2
+Oracle XML DB/Oracle Database,2
+Kerio Connect 7.3.1 patch 2,2
+Apache/2.0.63,2
+nginx/1.9.2,2
+TwistedWeb/8.2.0,2
+Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 mod_fcgid/2.3.6,2
+nginx/1.0.5,2
+Generic WEB Server,2
+nginx/1.7.8,2
+Apache/1.3.34 (Unix),2
+Apache/2.0.65 (Win32),2
+lwIP/1.3.1 (http://savannah.nongnu.org/projects/lwip),2
+Jetty(9.2.z-SNAPSHOT),2
+nginx/0.6.34,2
+Kerio MailServer 6.5.0 patch 1,2
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g,2
+openresty/1.9.7.1,2
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny13 with Suhosin-Patch,2
+Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 PHP/5.2.17,2
+Apache/2.2.26 (Win32) mod_ssl/2.2.26 OpenSSL/0.9.8y,2
+SIMP LIGHT,2
+Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips Phusion_Passenger/4.0.58 mod_bwlimited/1.4 mod_perl/2.0.8 Perl/v5.8.8,2
+Apache/2.4.16 (Win32),2
+Kerio Connect 8.2.1,2
+Apache/2.2.15 (Win32) PHP/5.4.30,2
+Apache/2.2.15,2
+Apache/2.4.9 (FreeBSD) OpenSSL/1.0.1l-freebsd,2
+Rumpus,2
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips Phusion_Passenger/5.0.29,2
+Apache/2.2.17 (Win32) mod_ssl/2.2.17 OpenSSL/0.9.8o PHP/5.3.4 mod_perl/2.0.4 Perl/v5.10.1,2
+Apache/2.2.25 (Win32) PHP/5.4.20,2
+Apache/2.2.3 (Debian) PHP/4.4.4-8+etch6 mod_ssl/2.2.3 OpenSSL/0.9.8c,2
+Apache/2.2.17 (Win32) PHP/5.2.17,2
+Apache/2.4.16 (Unix),2
+Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/7.0.8,2
+nginx/1.9.14,2
+Apache/2.2.29 (Unix) PHP/5.3.29 mod_ssl/2.2.29 OpenSSL/1.0.2h,2
+Kerio Connect 7.3.0,2
+Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.24,2
+Apache/2.4.23 (Win64) OpenSSL/1.0.2j,2
+Apache/2.4.23 (FreeBSD) PHP/5.6.24,2
+Apache/2.4.10 (Debian) OpenSSL/1.0.1t mod_wsgi/4.3.0 Python/2.7.9,2
+LuCIttpd/0.91,2
+Apache/2.4.10 (Win32),2
+Abyss/2.7.0.0-X2-Win32 AbyssLib/2.7.0.0,2
+nginx/1.6.2 + Phusion Passenger 5.0.6,2
+nginx/1.9.7,2
+Siemens Switzerland Ltd.,2
+Kerio Connect 8.3.2,2
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny4 with Suhosin-Patch mod_python/3.3.1 Python/2.5.2 mod_perl/2.0.4 Perl/v5.10.0,2
+Apache/2.2.15 (Linux/SUSE),2
+Proxy,2
+Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8c DAV/2 PHP/5.2.8 mod_perl/2.0.4 Perl/v5.8.8,2
+nginx/1.0.11,2
+Apache/2.2.19 (Win32) PHP/5.2.8,2
+lighttpd/1.4.37,2
+lighttpd/1.4.32 - Palapa Web Server (http://alfanla.com),2
+Apache/1.3.34 (Unix) PHP/4.4.2,2
+boss/1.0 (BOSS),2
+WildFly/10,2
+LightTPD/1.4.32 (Win32),2
+Apache/2.0.54 (Debian GNU/Linux) mod_ssl/2.0.54 OpenSSL/0.9.7e,2
+Apache/2.2.25 (FreeBSD) PHP/5.5.0 mod_ssl/2.2.25 OpenSSL/0.9.8y DAV/2,2
+Mikrotik HttpProxy,2
+Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.2h DAV/2 PHP/5.6.24,2
+Apache/2.2.25 (Win32) PHP/5.3.27,2
+Apache/2.0.59 (Unix) PHP/5.1.0 mod_ssl/2.0.59 OpenSSL/0.9.8h DAV/2,2
+lighttpd/1.4.26,2
+GHC,2
+Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8r mod_jk/1.2.32,2
+CommuniGatePro/6.1c3,2
+Apache/2.0.52 (ASPLinux),2
+Apache/2.2.4 (Win32) PHP/5.2.9-2 DAV/2,2
+panel,2
+nginx/1.9.9 + Phusion Passenger 5.0.21,2
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.6.26,2
+Apache/2.4.9 (Win64) PHP/5.5.12,2
+Apache/2.2.13 (Linux/SUSE),2
+Apache/2.0.58 (Win32) PHP/5.2.5,2
+Apache/2.2.25 (Win32) PHP/5.4.45,2
+nginx/1.0.14,2
+Apache/2.2.23 (FreeBSD) PHP/5.4.10 mod_ssl/2.2.23 OpenSSL/0.9.8y DAV/2,2
+nginx/1.11.6,2
+Kerio Connect 8.3.0,2
+Sun GlassFish Enterprise Server v2.1,2
+Apache/2.2.4 (Win32),2
+D-Link Web Server 0.01,2
+Apache/2.2.25 (Win32) mod_jk/1.2.37,2
+Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/0.9.8zd DAV/2,2
+nginx/1.7.0,2
+HTTPServer,2
+Apache/2.2.21 (Win32) PHP/5.3.8,2
+LANCOM,2
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.23,2
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.6.9,2
+Apache/2.2.29 (Win32) mod_jk/1.2.40,2
+SP-XML,2
+Apache/2.4.23 (Unix) PHP/7.0.11,2
+nginx/1.0.10,2
+Kerio Connect 7.0.1,2
+Apache/2.2.17 (Win32) mod_aspdotnet/2.2,2
+Apache/2.4.20 (Unix) OpenSSL/1.0.1i-fips,2
+Apache/1.3.34 (Unix) mod_gzip/1.3.26.1a diffprivs/20030624,2
+Kerio MailServer 6.5.2,2
+squid/3.1.23,2
+Apache/2.2.20 (Win32),2
+product only,2
+Oracle HTTP Server Powered by Apache/1.3.22 (Win32) mod_plsql/3.0.9.8.3b mod_ssl/2.8.5 OpenSSL/0.9.6b mod_fastcgi/2.2.12 mod_oprocmgr/1.0 mod_perl/1.25,2
+Apache/2.2.24 (FreeBSD) mod_ssl/2.2.24 OpenSSL/0.9.8y DAV/2,2
+Apache/1.3.27 (Unix),2
+Apache/2.0.63 (CentOS),2
+Apache/2.4.10 (FreeBSD),2
+yealink embed httpd,2
+GAD,2
+Kerio Connect 8.2.4,2
+Apache/2.2.29 (Win32) mod_ssl/2.2.29 OpenSSL/1.0.1j PHP/5.3.29,2
+IIS 4.0,2
+lwIP/1.4.1 (http://savannah.nongnu.org/projects/lwip),2
+Apache/2.2.4 (Linux/SUSE),2
+Apache/2.4.16 (Linux/SUSE),2
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5,2
+adf_http_server/4.3.0183,2
+Apache/2.4.4 (Unix) OpenSSL/1.0.0e mod_jk/1.2.41,2
+Apache/2.4.6 (CentOS) mod_auth_kerb/5.4 mod_nss/2.4.6 NSS/3.15.4 Basic ECC PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5,2
+Apache/2.4.6 (CentOS) PHP/5.4.45,2
+Apache/2.2.3 (Debian) mod_ssl/2.2.3 OpenSSL/0.9.8c mod_jk/1.2.18,2
+HTTP Server,2
+nginx/0.7.64,2
+Apache/1.3.39 (Unix) PHP/4.4.7 with Suhosin-Patch,2
+nginx/1.2.2,2
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g mod_fcgid/2.3.5 mod_wsgi/2.5 Python/2.5.2,2
+Apache/2.4.10 (Linux/SUSE),2
+Apache/2.4.16 (Unix) OpenSSL/0.9.8zg,2
+Stulz GmbH Klimatechnik embedded Web Server v2.0,1
+Apache/2.2.22 (Ubuntu) mod_fastcgi/mod_fastcgi-SNAP-0910052141 PHP/5.3.10-1ubuntu3.25 with Suhosin-Patch,1
+Apache/2.2.26 (CentOS),1
+kangle/3.5.8.2,1
+Apache/2.2.21 (Unix) PHP5/5.3.10 with Suhosin-Patch,1
+MS-MFC-HttpSvr/1.0,1
+IPCameraWebs,1
+Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/0.9.8t PHP/5.4.41 mod_jk/1.2.37,1
+ATEN HTTP Server(V1.0),1
+Apache/2.4.6 (CentOS) PHP/5.4.16 mod_perl/2.0.9dev Perl/v5.16.3,1
+Apache/2.2.26 (FreeBSD) PHP/5.4.23 mod_ssl/2.2.26 OpenSSL/0.9.8y DAV/2,1
+MochiWeb/1.0 (Any of you quaids got a smint?),1
+Apache/1.3.23 (Win32),1
+Apache/2.4.6 (Win64) mod_fcgid/2.3.9,1
+thin 1.6.1 codename Death Proof,1
+Apache/2.2.15 (Debian) mod_scgi/1.13,1
+OpenVPN-AS,1
+lighttpd/1.4.33,1
+Apache/2.2.24 (Win64) mod_ssl/2.2.24 OpenSSL/1.0.1e PHP/5.3.3,1
+nginx/1.9.1,1
+nginx + Phusion Passenger 5.0.23,1
+NRS/1A.2.3.1017.19-24-gdbed3c5,1
+Apache/2.4.18 (Win64) PHP/7.0.12,1
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8o mod_jk/1.2.26,1
+Werkzeug/0.11.11 Python/3.5.2,1
+nginx/1.2.6 (Ubuntu),1
+Apache/2.4.23 (Unix) OpenSSL/1.0.2h PHP/7.0.9 mod_perl/2.0.8-dev Perl/v5.16.3,1
+Jetty(9.3.12.v20160915),1
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g mod_fcgid/2.3.5 mod_jk/1.2.26,1
+Sucuri/Cloudproxy,1
+Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19,1
+Apache/2.2.24 (FreeBSD) PHP/5.2.17 with Suhosin-Patch mod_ssl/2.2.24 OpenSSL/0.9.8x DAV/2,1
+Apache/2.4.18 (Win64) PHP/5.6.19,1
+Apache/1.3.37 (Unix) PHP/4.4.4 mod_perl/1.29 mod_ssl/2.8.28 OpenSSL/0.9.7l,1
+Apache/2.2.3 (Debian) PHP/4.4.4-8+etch3,1
+Apache/2.2.27 (Unix),1
+Apache/2.2.31 (Win32) mod_ssl/2.2.31 OpenSSL/1.0.1q,1
+openresty/1.11.2.1,1
+"HP HTTP Server; HP Photosmart Prem C310 series - CN503B; Serial Number: CN1312134T05KM; Tassenplus Built:Wed Sep 22, 2010 12:44:32PM {TPI2CN1038BR, ASIC id 0x00320104}",1
+Apache/2.4.10 (FreeBSD) PHP/5.4.36,1
+Apache/2.4.18 (FreeBSD) PHP/5.6.19,1
+Apache/2.4.9 (Unix) OpenSSL/0.9.8o PHP/5.3.10,1
+apache ttp.by,1
+httpserver,1
+OpenCms/8.0.4,1
+Apache/2.4.6 (CentOS) mod_fcgid/2.3.9 PHP/5.6.22,1
+Apache/2.2.17 (Linux/SUSE),1
+TeamLab Web Server Microsoft-HTTPAPI/2.0,1
+nginx/0.8.40,1
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny13 with Suhosin-Patch mod_perl/2.0.4 Perl/v5.10.0,1
+Kerio Connect 8.0.0,1
+nginx/0.5.32,1
+Apache/2.2.16 (Debian) PHP/5.4.45-1~dotdeb+6.1 mod_ssl/2.2.16 OpenSSL/0.9.8o,1
+Apache/2.4.23 (FreeBSD) OpenSSL/1.0.1s-freebsd,1
+Apache/2.4.16 (Win64) OpenSSL/1.0.1p mod_jk/1.2.40,1
+Apache/2.4.10 (Fedora),1
+Apache/2.4.6 (CentOS) PHP/5.6.25,1
+Apache/2.4.4 (Win64),1
+debut/1.20,1
+CommuniGatePro/6.0.7,1
+Unknown/0.0 UPnP/1.0 GlobespanVirata-EmWeb/R6_1_0,1
+Apache/2.2.22 (Debian) mod_ssl/2.2.22 OpenSSL/1.0.1e,1
+Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.5.24,1
+Apache/2.2.4 (Mandriva Linux/PREFORK-6mdv2007.1),1
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.21,1
+Kerio MailServer 6.7.3 patch 1,1
+Apache/2.2.4 (Win32) mod_ssl/2.2.4 OpenSSL/0.9.8k PHP/5.3.1,1
+Axigen-Webmail,1
+Apache/2.2.9 (Win32) PHP/5.2.6,1
+nginx/1.0.13,1
+Apache/2.2.21 (Win32) PHP/5.2.6,1
+Apache/2.2.26 (Win32) PHP/5.3.10,1
+Apache/2.4.23 (Unix) PHP/5.6.24 mod_perl/2.0.8-dev Perl/v5.16.3,1
+Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 PHP/5.2.5 mod_jk/1.2.26,1
+lighttpd/1.4.20,1
+Apache/2.2.21 (Win32) PHP/5.3.5,1
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.5.30,1
+EMS,1
+Apache/2.2.3 (Oracle),1
+dhcpsrv,1
+Apache-AdvancedExtranetServer/1.3.33 (Mandrakelinux/6mdk) PHP/4.3.10,1
+Apache/2.4.23 (Win64) PHP/5.6.25,1
+Apache/2.2.9 (Debian) PHP/5.2.17-0.dotdeb.0 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g,1
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g DAV/2 SVN/1.5.1,1
+nginx/1.9.6,1
+Apache/1.3.27 (Win32) PHP/4.1.1,1
+Apache/2.2.22 (CentOS),1
+Apache/2.2.16 (Unix) PHP/5.2.14 mod_ssl/2.2.16 OpenSSL/0.9.7a,1
+Apache/2.2.12 (Ubuntu),1
+Apache/2.2.9 (Debian) PHP/5.3.3-7+squeeze3 with Suhosin-Patch,1
+"Hewlett-Packard, Co.",1
+Apache/2.2.22 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y,1
+Kerio MailServer 6.7.0 patch 1,1
+Oracle-Application-Server-10g/10.1.2.0.2 Oracle-HTTP-Server,1
+Apache/2.2.9 (Win32) PHP/5.2.9-2,1
+Resin/4.0.30,1
+Apache/2.2.13 (Win32),1
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_auth_kerb/5.4 mod_fcgid/2.3.9 mod_nss/2.4.6 NSS/3.16.2.3 Basic ECC PHP/5.5.29 mod_wsgi/3.4 Python/2.7.5,1
+Apache/2.2.31 (Debian),1
+Apache/2.2.6 (Unix),1
+TwistedWeb/12.0.0,1
+Eudemon Server 1.0,1
+Apache/2.4.23 (Fedora) OpenSSL/1.0.2j-fips PHP/5.6.27,1
+Virata-EmWeb/R6_2_0,1
+Apache/2.4.4 (Win64) OpenSSL/1.0.0e,1
+Apache/2.2.15 (Win32) PHP/5.3.2,1
+gunicorn/0.16.1,1
+Apache/1.3.29 (Win32) PHP/4.3.4,1
+Internal Web Server,1
+Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_bwlimited/1.4 PHP/5.2.17,1
+Apache/1.3.34 (Unix) rus/PL30.22,1
+Apache/2.4.20 (Win64),1
+mini_httpd/1.21 18oct2014,1
+Apache/2.2.17 (Win32) mod_ssl/2.2.17 OpenSSL/0.9.8q mod_jk/1.2.31,1
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g mod_python/3.3.1 Python/2.5.2,1
+Apache/2.2.22 (Win32) mod_jk/1.2.37,1
+ProCurve Web Server,1
+Apache/2.2.13 (Unix) DAV/2 PHP/5.5.6,1
+gSOAP/2.8,1
+Planar Zenit,1
+Mbedthis-AppWeb/2.3.15,1
+ConfD,1
+Apache/2.2.31 (Unix) DAV/2 mod_mono/2.10 PHP/5.6.14 mod_ssl/2.2.31 OpenSSL/1.0.2h,1
+Apache/2.4.9,1
+webserver,1
+VidicorHTTPd/1.0 (Win32),1
+Apache/2.2.6 (CentOS),1
+Kerio Connect 7.2.4,1
+nginx/1.0.0,1
+nginx/1.7.12,1
+Apache/2.2.16 (Debian) mod_ssl/2.2.16 OpenSSL/0.9.8o mod_fcgid/2.3.5,1
+Serv-U/14.0.1.0,1
+Apache/2.2.15 (Win32) PHP/5.2.6,1
+nginx + Phusion Passenger 5.0.21,1
+Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/1.0.0-fips mod_bwlimited/1.4,1
+btku-sw-22,1
+NCMPS,1
+CCProxy,1
+Apache/2.2.16 (Win32) PHP/5.4.11,1
+Apache/2.2.31 (CentOS),1
+ARH HTTP Server,1
+Apache/2.2.15 (CentOS) DAV/2 PHP/5.3.3,1
+Apache/2.2.25 (Win32) PHP/5.4.9,1
+Apache/2.2.9 (Ubuntu) PHP/5.2.6-2ubuntu4.6 with Suhosin-Patch,1
+Apache/2.2.3 (Debian) mod_ssl/2.2.3 OpenSSL/0.9.8c mod_perl/2.0.2 Perl/v5.8.8,1
+PRTG/15.4.21.5481,1
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny8 with Suhosin-Patch,1
+Apache/1.3.37 (Unix) PHP/4.4.7,1
+Kerio Connect 8.0.1,1
+Apache/2.2.25 (Win32) PHP/5.3.27 mod_jk/1.2.18,1
+nginx + Phusion Passenger 4.0.53,1
+Apache/2.2.31 (FreeBSD) PHP/5.5.30 mod_ssl/2.2.31 OpenSSL/1.0.1l-freebsd DAV/2,1
+JAWS/1.0 Apr 24 2015,1
+nginx/1.8.0 + Phusion Passenger 5.0.23,1
+Apache/2.2.26 (FreeBSD) PHP/5.3.28 with Suhosin-Patch mod_ssl/2.2.26 OpenSSL/0.9.8q,1
+Apache/2.4.16 (Win64) mod_jk/1.2.41,1
+RepliconWebTimeSheet/6.5,1
+Apache/2.2.15 (Win32) PHP/5.2.9-1,1
+Apache/2.2.26 (Unix) PHP/5.3.28 mod_wsgi/3.3 Python/2.7.2 mod_ssl/2.2.26 OpenSSL/0.9.8za DAV/2,1
+Apache/2.4.6 (Sangoma) OpenSSL/1.0.1e-fips PHP/5.6.25,1
+Apache/2.2.24 (FreeBSD) PHP/5.2.17 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.7e-p1 DAV/2,1
+Kucci,1
+Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.3.29,1
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips SVN/1.7.14,1
+Apache/2.0.50 (Win32) mod_jk2/2.0.4 PHP/5.0.2-dev,1
+Kerio MailServer 6.7.1,1
+Jetty(6.1.x),1
+Apache/2.2.17 (Win32) PHP/5.2.16,1
+nginx/1.5.7,1
+Kerio Connect 9.0.4 patch 1,1
+Apache/2.2.11 (Win32) PHP/5.3.0,1
+Apache/2.4.23 (Win32),1
+nginx/1.8.1 + Phusion Passenger 5.0.26,1
+Apache/2.2.21 (Linux/SUSE),1
+Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8q PHP/5.3.5 with Suhosin-Patch,1
+Apache/2.4.12 (Scientific Linux) OpenSSL/1.0.1e-fips PHP/5.6.5,1
+nginx/1.5.2,1
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny13 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g,1
+Apache/2.2.16 (Debian) mod_ssl/2.2.16 OpenSSL/0.9.8o mod_jk/1.2.30 mod_fcgid/2.3.6,1
+JAWS/1.0 May 26 2014,1
+Apache/2.2.23 (Win32) PHP/5.3.16,1
+Jetty(9.0.3.v20130506),1
+WebServer 1.4,1
+eHTTP v2.0,1
+Apache/2.2.9 (Debian) PHP/5.2.13-0.dotdeb.0 with Suhosin-Patch,1
+dvrhost_mini_web_server/1.0,1
+Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635,1
+AIS Business Intelligence,1
+nginx/1.9.8,1
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.4.16 SVN/1.7.14,1
+Apache/2.2.15 (FreeBSD) mod_ssl/2.2.15 OpenSSL/0.9.8n DAV/2 PHP/5.2.13 with Suhosin-Patch,1
+Apache/1.3.34 (Win32) PHP/4.3.4,1
+Apache/2.2.3 (Debian) PHP/5.3.3-7+squeeze1 with Suhosin-Patch,1
+nginx/1.6.1 + Phusion Passenger 4.0.50,1
+Apache/2.2.3 (Debian) PHP/5.2.0-8+etch11,1
+Apache/2.2.29 (FreeBSD) mod_ssl/2.2.29 OpenSSL/1.0.1s-freebsd PHP/5.3.29 with Suhosin-Patch mod_perl/2.0.9 Perl/v5.20.3,1
+Boa/0.94.14rc18-ipcam,1
+Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 PHP/5.2.11 mod_jk/1.2.37,1
+Apache/2.4.12 (Win32) PHP/5.6.22,1
+nginx/1.5.12,1
+Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8o DAV/2 SVN/1.6.17,1
+Apache/2.2.14 (Win32) mod_ssl/2.2.14 OpenSSL/0.9.8k Line-Edit/1.0.0,1
+Allegro-Software-RomPager/4.04,1
+Apache/2.0.63 (Win32) PHP/5.2.5,1
+Apache/2.0.54 (Debian GNU/Linux) PHP/4.4.2-1+b1 mod_ssl/2.0.54 OpenSSL/0.9.7e,1
+Apache/2.2.15 (CentOS) DAV/2,1
+Kerio Connect 7.4.0,1
+Lanswitch - V100R003 HttpServer 1.1,1
+CommuniGatePro/6.1.10,1
+Apache mod_fcgid/2.3.9,1
+Apache/2.2.18 (Win32) PHP/5.2.17,1
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.26 with Suhosin-Patch mod_ruby/1.2.6 Ruby/1.8.6(2007-09-24) mod_ssl/2.2.8 OpenSSL/0.9.8g,1
+Apache/1.3.34 (Debian) PHP/4.4.4-8+etch6,1
+Apache/2.2.26 (Unix) DAV/2 PHP/5.3.28 with Suhosin-Patch,1
+Apache/2.2.2 (Fedora),1
+Werkzeug/0.9.4 Python/2.7.6,1
+Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8q DAV/2 PHP/5.3.3 with Suhosin-Patch,1
+Apache/2.4.20 (FreeBSD) PHP/5.6.22,1
+"Linux, HTTP/1.1, DIR-850L Ver 1.10WW",1
+Apache/2.4.6 (CentOS) PHP/5.6.14,1
+Apache/2.4.10 (FreeBSD) PHP/5.6.3,1
+Apache/2.4.16 (Win64) OpenSSL/1.0.1p,1
+Apache/2.4.23 (Unix) PHP/5.6.25,1
+Apache/1.3.34 (Unix) PHP/5.3.5 with Suhosin-Patch,1
+Apache/2.0.64 (Win32) PHP/5.2.17,1
+Apache/2.2.24 (FreeBSD) PHP/5.3.22 with Suhosin-Patch,1
+Apache/2.2.26 (Win32) mod_jk/1.2.37,1
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8g mod_perl/2.0.4 Perl/v5.10.0,1
+Apache/2.4.9 (Win32) OpenSSL/1.0.1f PHP/5.4.9,1
+Apache/2.0.63 (Win32) mod_ssl/2.0.63 OpenSSL/0.9.8e,1
+Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4,1
+Apache/2.2.31 (FreeBSD) PHP/5.6.27 mod_scgi/1.15 mod_ssl/2.2.31 OpenSSL/0.9.8x DAV/2,1
+Apache/2.2.25 (Win32) DAV/2 PHP/5.2.8,1
+Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/0.9.8t PHP/5.4.31,1
+lighttpd/1.4.18,1
+Embedthis-Appweb/3.2.3,1
+nginx/0.6.35,1
+Apache/1.3.27 (Unix) rus/PL30.17,1
+nginx/1.6.2-translator,1
+Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/0.9.8r PHP/5.3.29,1
+embOS/IP,1
+Apache/2.4.16 (Unix) OpenSSL/1.0.1i-fips Phusion_Passenger/5.0.16,1
+Apache/2.2.23 (FreeBSD) DAV/2,1
+thttpd/2.23beta1 26may2002,1
+HP-ChaiSOE/1.0,1
+Apache/2.2.6 (Win32) PHP/5.4.31,1
+Apache/1.3.39 (Unix) PHP/4.4.7,1
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny2 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g,1
+nginx/0.9.6,1
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.1e-fips PHP/5.4.16,1
+Apache/2.2.21 (CentOS),1
+Fastream NETFile Web Server 7,1
+Apache/2.2.21 (FreeBSD) mod_ssl/2.2.21 OpenSSL/0.9.8q DAV/2 PHP/5.2.17 with Suhosin-Patch,1
+Apache/2.2.16 (Win32) mod_ssl/2.2.16 OpenSSL/0.9.8o PHP/5.2.14,1
+Kerio Connect 8.4.0,1
+Apache/1.3.39 (Unix) PHP/5.2.5 with Suhosin-Patch mod_ssl/2.8.30 OpenSSL/0.9.8g,1
+Apache/2.2.31 (Win32) mod_ssl/2.2.31 OpenSSL/1.0.2j PHP/5.4.19,1
+Apache/2.4.9 (Win32) OpenSSL/1.0.1h PHP/5.4.30,1
+Apache/2.2.16 (Debian) mod_ssl/2.2.16 OpenSSL/0.9.8o mod_perl/2.0.2 Perl/v5.8.8,1
+Apache/2.2.6 (Unix) PHP/5.2.5,1
+LANCOM 1781A 8.50.0161 / 09.08.2011,1
+Apache/2.2.17 (Win32) PHP/5.2.0,1
+Serv-U/15.0.0.0,1
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch,1
+Apache/2.4.10 (Raspbian) mod_fcgid/2.3.9 OpenSSL/1.0.1k mod_wsgi/4.3.0 Python/2.7.9,1
+Apache/2.4.10 (Debian) SVN/1.8.10 mod_ldap_userdir/1.1.19 OpenSSL/1.0.1t,1
+Apache/2.2.25 (Win32) PHP/5.3.29,1
+nginx/1.0.15 + Phusion Passenger 3.0.12 (mod_rails/mod_rack),1
+HFS 2.3g,1
+Apache/2.4.23 (FreeBSD) PHP/5.6.25,1
+nginx/1.1.7,1
+Apache/2.2.31 (Win32) mod_jk/1.2.31,1
+Apache/2.2.16 (Win32) mod_ssl/2.2.16 OpenSSL/0.9.8o PHP/5.2.12,1
+Apache/1.3.28 Ben-SSL/1.52 (Unix) PHP/4.3.7,1
+Apache/2.2.26 (FreeBSD) mod_klwi/2.4 mod_ssl/2.2.26 OpenSSL/0.9.8y DAV/2,1
+Apache/2.2.16 (Debian) DAV/2 SVN/1.6.12 mod_fastcgi/2.4.6 mod_ssl/2.2.16 OpenSSL/0.9.8o,1
+Apache/2.4.4 (Unix) mod_jk/1.2.41 OpenSSL/1.0.0e mod_wsgi/4.3.0 Python/2.7.6,1
+xxxxxxxx,1
+Apache/2.2.21 (Win32) PHP/5.3.8 mod_ssl/2.2.21 OpenSSL/1.0.0e mod_perl/2.0.4 Perl/v5.10.1,1
+Apache/2.2.17 (Win32) PHP/5.2.14,1
+nginx/1.0.9,1
+lighttpd/1.4.35-devel-14013M,1
+squid/3.5.19,1
+Apache/2.2.11 (Ubuntu) PHP/5.2.6-3ubuntu4.6 with Suhosin-Patch mod_python/3.3.1 Python/2.6.2 mod_ruby/1.2.6 Ruby/1.8.7(2008-08-11),1
+Apache/2.4.18 (FreeBSD) PHP/5.6.18,1
+Apache/2.4.10 (FreeBSD) OpenSSL/1.0.1j-freebsd PHP/5.4.35 mpm-itk/2.4.7-02,1
+Apache/2.2.17 (Win32) PHP/4.4.4,1
+squid,1
+TP-LINK HTTPD/1.0,1
+Wing FTP Server(UNREGISTERED),1
+Apache/2.2.17 (Win32) PHP/5.3.5,1
+Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8y DAV/2,1
+Apache/2.0.55 (Unix) PHP/4.3.11,1
+nginx-catap/1.1.0,1
+Apache/2.2.11 (Win32) PHP/5.4.8,1
+Apache/2.0.63 (Unix) PHP/5.5.27,1
+Traffic Inspector HTTP/FTP/Proxy server (2.0.1.724),1
+Apache/2.2.22 (Win32) PHP/5.4.14,1
+Apache/2.2.16 (Debian) PHP/5.3.3-7+squeeze19 with Suhosin-Patch mod_ssl/2.2.16 OpenSSL/0.9.8o,1
+Apache/2.2.22 (Win32) mod_fcgid/2.3.6,1
+Allegro-Software-RomPager/4.01,1
+Apache/2.2.17 (Win32) PHP/5.2.10,1
+Apache/2.2.4 (Win32) PHP/5.2.12,1
+Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.6,1
+Apache/2.4.12 (Win32) PHP/5.6.5,1
+Apache/2.2.3 (Win32) PHP/5.2.5,1
+Kerio Embedded WebServer 1.0,1
+Mathopd/1.5p8,1
+Apache/2.4.10 (Debian) mod_fcgid/2.3.9 OpenSSL/1.0.1k,1
+nginx/1.4.4 + Phusion Passenger 4.0.37,1
+Apache/2.2.14 (Win32) PHP/5.2.5,1
+Apache/2.4.18 (Unix) OpenSSL/1.0.2g PHP/5.6.20 mod_perl/2.0.8-dev Perl/v5.16.3,1
+Kerio MailServer 6.1.3,1
+Kerio MailServer 6.3.1,1
+nginx/1.0.12,1
+lighttpd/1.4.24,1
+nginx/1.5.0,1
+Kerio Connect 9.2.0,1
+Huawei-BMC,1
+Apache/2.2.22 (Win32) PHP/5.3.9,1
+Apache/2.2.25 (FreeBSD) PHP/5.4.17 mod_ssl/2.2.25 OpenSSL/0.9.8y,1
+lighttpd/1.4.25,1
+Apache/2.2.25 (FreeBSD) mod_ssl/2.2.25 OpenSSL/0.9.8y DAV/2,1
+Apache/2.2.8 (Win32),1
+Apache/2.4.10 (Debian) OpenSSL/1.0.1t,1
+Apache/1.3.42 (Unix) PHP/5.2.6,1
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_wsgi/3.4 Python/2.7.5,1
+Apache/2.4.12 (Win64) PHP/5.6.10,1
+Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1a PHP/5.2.10,1
+Apache/2.2.22 (Debian) PHP/5.4.4-14+deb7u2,1
+Kerio Connect 7.3.2,1
+Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.13,1
+Jigsaw 2.2.6,1
+Indy/8.0.25,1
+Apache/2.4.12 (Win32) PHP/5.6.8 mod_wsgi/4.4.10 Python/2.7.9,1
+IPCamera-Web,1
+Apache/2.4.20 (Win32) PHP/5.6.20,1
+Apache/2.4.16 (Win64) OpenSSL/1.0.1p PHP/5.5.28,1
+Apache/2.4.23 (Unix) PHP/7.0.12,1
+Oracle HTTP Server Powered by Apache/1.3.12 (Win32) ApacheJServ/1.1 mod_ssl/2.6.4 OpenSSL/0.9.5a mod_perl/1.24,1
+Apache/2.2.19 (CentOS),1
+Apache/2.2.23 (Amazon),1
+Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.6,1
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.5.34,1
+Apache/2.2.31 (FreeBSD) PHP/5.3.29 with Suhosin-Patch,1
+nginx/1.5.9,1
+Lighttpd,1
+Apache/2.4.23 (Win64) PHP/5.6.26,1
+lighttpd/1.4.29,1
+Apache/2.2.16 (Unix) PHP/5.2.14,1
+nginx/1.0.11 + Phusion Passenger 3.0.11 (mod_rails/mod_rack),1
+Apache/2.2.22 (EL),1
+Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.6.3,1
+apache,1
+nginx centminmod,1
+Corrigo Webserver,1
+Apache/1.3.0 rus/PL25.8 (OS/2),1
+nginx/1.7.10,1
+KM-MFP-http/V0.0.1,1
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny3 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g,1
+Apache/2.4.23 (Win64) OpenSSL/1.0.2j PHP/5.6.19,1
+Apache/2.2.11 (Win32) PHP/5.2.6,1
+Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.26,1
+Apache/2.2.4 (Win32) PHP/5.2.0,1
+nginx/0.7.69,1
+Apache/2.4.10 (Win32) PHP/5.5.19,1
+Apache/2.2.19 (Win64) PHP/5.3.10,1
+Apache/2.4.9 (Win32) OpenSSL/0.9.8y PHP/5.4.27,1
+Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635,1
+squid/2.5.STABLE6,1
+Apache/2.2.27 (Win32) mod_ssl/2.2.27 OpenSSL/1.0.1g,1
+"HP HTTP Server; HP Photosmart B110 series - CN245C; Serial Number: CN059172XF05J8; Chiplus_usr_hf Built:Tue Nov 06, 2012 11:45:41AM {CHL1FN1244AR, ASIC id 0x00280004}",1
+Apache/2.2.19 (Win32) PHP/5.2.9,1
+Apache/2.4.18,1
+Apache/2.4.16 (Debian),1
+Apache/2.4.10 (FreeBSD) SVN/1.8.10,1
+Lotus-Domino/4.6,1
+"HP HTTP Server; HP DeskJet 4670 series - F1H97C; Serial Number: TH585191F30663; Built:Mon Apr 18, 2016 10:19:42AM {CEP1FN1617AR}",1
+Go ReverseProxy,1
+Apache/2.4.9 (Win32) PHP/5.3.28,1
+Apache/2.0.64 (Win32) mod_jk/1.2.37,1
+WebServer/4.6.2.0,1
+AcIDSoftWebServer/0.1b,1
+Apache/2.2.29 (Win64) mod_ssl/2.2.29 OpenSSL/1.0.1l,1
+lighttpd/1.4.28-devel-3831,1
+Apache/2.4.12 (Win32) OpenSSL/1.0.1m mod_wsgi/4.4.11 Python/2.7.9,1
+Apache/2.2.29 (Linux/SUSE),1
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8o,1
+CarelDataServer/1.5.1.0,1
+Apache/2.4.12 (Win32) PHP/5.4.42,1
+Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8e DAV/2 PHP/5.3.5 with Suhosin-Patch,1
+Apache/2.2.8 (Win32) mod_ssl/2.2.8 OpenSSL/0.9.8g PHP/5.2.5,1
+Apache/2.4.10 (Fedora) PHP/5.5.23,1
+Apache/2.4.10 (Debian) mod_jk/1.2.37 OpenSSL/1.0.1t mod_wsgi/4.3.0 Python/3.4.2,1
+nginx/1.6.2 + Phusion Passenger 5.0.1,1
+JAWS/1.0 Jul 11 2013,1
+Kerio Connect 8.4.3,1
+Apache/2.2.31 (Win32) mod_ssl/2.2.31 OpenSSL/1.0.2h PHP/5.3.18,1
+Apache/2.4.6 (CentOS) SVN/1.7.14,1
+Apache/2.4.10 (Unix) OpenSSL/0.9.8j-fips,1
+Apache/2.2.17 (Win32) mod_ssl/2.2.17 OpenSSL/0.9.8o PHP/5.3.4,1
+Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/0.9.8t PHP/5.2.17,1
+Apache/2.4.18 (Unix) PHP/5.6.17 mod_perl/2.0.9 Perl/v5.10.1,1
+JAWS/1.0 Apr  9 2016,1
+Indy/DevSnapshot,1
+Apache/2.4.2 (Win64) PHP/5.6.12,1
+thttpd/2.19-MX Jul 11 2012,1
+Apache/2.4.10 (FreeBSD) OpenSSL/1.0.2d PHP/5.5.16,1
+Apache/2.0.63FTF (NETWARE) mod_jk/1.2.23,1
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny3 with Suhosin-Patch,1
+Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/5.5.38,1
+Apache/2.0.64 (Win32) PHP/5.2.9,1
+nginx/1.4.5,1
+Apache/2.2.22 (FreeBSD) PHP/5.4.6 mod_ssl/2.2.22 OpenSSL/0.9.8x DAV/2,1
+lighttpd/1.4.35 - for Bit Web Server,1
+Apache/2.4.6 (CentOS) mpm-itk/2.4.7-01 PHP/5.4.16,1
+Apache/2.4.23 (Win64) PHP/7.0.9,1
+Apache/2.2.4 (Ubuntu) PHP/5.2.3-1ubuntu6.5,1
+Apache/2.4.23 (Unix) OpenSSL/1.0.2j SVN/1.9.4 PHP/7.0.12,1
+HOSTER.BY/6.1.11,1
+Apache/2.0.63 (FreeBSD) PHP/5.4.7,1
+Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.10 mod_perl/2.0.4 Perl/v5.10.1,1
+Kerio Connect 9.1.0,1
+Server v1.0,1
+thttpd,1
+Apache/2.2.25 (Win32) PHP/5.2.0-dev,1
+Kerio Connect 7.4.2,1
+Apache/2.2.19 (Win32),1
+Apache/2.2.19 (Win32) PHP/5.3.28,1
+"Oracle-Application-Server-11g Oracle-Web-Cache-11g/11.1.1.6.0 (N;ecid=2528858268372338,0:1)",1
+Apache/2.4.23 (Unix) OpenSSL/1.0.2h PHP/5.6.24 mod_perl/2.0.8-dev Perl/v5.16.3,1
+Apache/2.2.3 (Debian) PHP/5.2.0-8+etch10,1
+squid/3.2.9,1
+Apache/2.4.16 (FreeBSD) OpenSSL/1.0.1l-freebsd PHP/5.6.11,1
+squid/3.5.10,1
+Serv-U/15.1.1.108,1
+Apache/2.2.9 (Debian) mod_ssl/2.2.9 OpenSSL/0.9.8o mod_fcgid/2.3.5,1
+Apache/2.4.12 (Unix) OpenSSL/1.0.1m SVN/1.7.14 PHP/5.6.8 mod_perl/2.0.8-dev Perl/v5.16.3,1
+eWON,1
+Apache/2.2.21 (Win32) PHP/5.4.11,1
+Apache/2.4.9 (Win64) PHP/5.4.12,1
+Apache/2.2.27 (Unix) mod_jk/1.2.40,1
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips Phusion_Passenger/5.0.20,1
+Apache/2.2.8 (Ubuntu) DAV/2 SVN/1.4.6 mod_fastcgi/2.4.6 mod_jk/1.2.25 PHP/5.2.4-2ubuntu5.10 with Suhosin-Patch Phusion_Passenger/2.2.10,1
+Apache/2.2.16 (Unix) mod_ssl/2.2.16 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 mod_perl/2.0.4 Perl/v5.8.8,1
+Kerio MailServer 6.4.1,1
+Apache/2.4.4 (Win64) PHP/5.4.12,1
+Apache/2.2.4 (Win32) mod_ssl/2.2.4 OpenSSL/0.9.8k PHP/5.3.3,1
+Apache/2.4.18 (Win64),1
+SAP NetWeaver Application Server 7.21 / AS Java 7.30,1
+WSGIServer/0.1 Python/2.7.6,1
+OpenAS,1
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2h-fips mod_jk/1.2.41,1
+H264WebCam,1
+Oracle HTTP Server Powered by Apache/1.3.22 (Win32) PHP/4.4.0 mod_plsql/3.0.9.8.3b mod_ssl/2.8.5 OpenSSL/0.9.6b mod_fastcgi/2.2.12 mod_oprocmgr/1.0 mod_perl/1.25,1
+Apache/2.2.26 (Win32) mod_ssl/2.2.26 OpenSSL/1.0.1i SVN/1.8.11 DAV/2,1
+Microsoft-Cassini/1.0.0.0,1
+Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 DAV/2 PHP/5.3.0,1
+Microsoft-WinCE/6.00,1
+nginx + Phusion Passenger 5.0.30,1
+Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5,1
+Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips mod_antiloris/0.4,1
+Apache/2.2.21 (Win32),1
+kangle/3.4.8,1
+PRTG/16.1.21.1257,1
+Boa/0.94.14rc19,1
+Apache/2.4.6 (Unix) OpenSSL/1.0.1c PHP/5.4.20,1
+Apache/2.2.11 (Win32) mod_ssl/2.2.11 OpenSSL/0.9.8i PHP/5.2.8,1
+Apache/2.2.22 (Win32) PHP/5.3.26,1
+Apache/2.0.59 (Win32) PHP/4.4.6,1
+Embedded HTTP Server.,1
+Apache/2.4.3 (Unix) PHP/5.4.7,1
+Apache/2.2.24 (Unix) PHP5/5.3.25 with Suhosin-Patch mod_ssl/2.2.24 OpenSSL/1.0.0p mod_perl/2.0.4 Perl/v5.12.5,1
+Apache/2.4.18 (Unix) PHP/5.5.38,1
+Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.6.8,1
+Apache/2.2.21 (FreeBSD) mod_ssl/2.2.21 OpenSSL/0.9.8y DAV/2,1
+nginx/1.5.6,1
+Apache/2.2.25 (FreeBSD) PHP/5.4.17 mod_ssl/2.2.25 OpenSSL/0.9.8y DAV/2,1
+Apache/1.3.39 (Unix) PHP/4.4.8,1
+Apache/2.4.20 (Win32) PHP/5.6.21RC1,1
+Apache/2.4.9 (Debian),1
+Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/0.9.8t PHP/5.4.36,1
+Apache/2.2.21 (FreeBSD) DAV/2 PHP/5.3.8,1
+SAP J2EE Engine/7.02,1
+Apache/2.2.22 (Win32) PHP/5.4.45,1
+Apache/2.4.9 (Win32) PHP/5.5.12,1
+Apache/2.4.20 (Win32) OpenSSL/1.0.2g PHP/5.3.28,1
+Kerio Connect 7.1.1,1
+Apache/2.2.15 (Unix) PHP/5.2.13,1
+Kerio Connect 9.0.0,1
+Apache/2.0.54 (Debian GNU/Linux) DAV/2 SVN/1.1.4 mod_python/3.1.3 Python/2.3.5 PHP/4.3.10-16,1
+Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.22,1
+$ProjectRevision: 4.2 $,1
+IBM_HTTP_Server,1
+Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips Phusion_Passenger/4.0.58 mod_bwlimited/1.4,1
+Apache/2.2.17 (Fedora),1
+Mbedthis-Appweb/2.4.0,1
+nginx/0.5.20,1
+Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_auth_kerb/5.4 PHP/5.4.16 mod_perl/2.0.9dev Perl/v5.16.3,1
+Apache/2.2.16 (Win32) mod_ssl/2.2.16 OpenSSL/0.9.8o,1
+nginx/1.6.2 + Phusion Passenger 4.0.53,1
+nginx/0.5.33,1
+Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8c DAV/2 PHP/5.2.6,1
+Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16,1
+Apache/2.2.17 (Win32) PHP/5.2.12,1
+nginx/1.4.7 + Phusion Passenger 4.0.41,1
+netIP2 HTTPd 10/1.0,1
+Kerio Connect 8.5.1,1
+Apache/2.4.9 (Win32),1
+Mono.WebServer.XSP/1.0.5255.22356 Win32NT,1
+WSGIServer/0.2 CPython/3.6.0b1,1
+Apache/2.0.63 (FreeBSD) DAV/2 PHP/5.2.8 with Suhosin-Patch,1
+Apache/2.0.64 (FreeBSD) PHP/5.5.28 mod_ssl/2.0.64 OpenSSL/0.9.8y,1
+Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8n DAV/2 PHP/5.3.3 with Suhosin-Patch,1
+nginx/1.3.8,1
+Apache/2.4.16 (FreeBSD) PHP/5.6.14,1
+Jetty(9.2.10.v20150310),1
+Apache/2.2.3 (Win32) DAV/2 mod_ssl/2.2.3 OpenSSL/0.9.8c mod_autoindex_color PHP/5.1.6,1
+LANCOM 1724 VoIP (Annex B) 8.62.0050 / 07.08.2012,1
+Apache/2.0.55 (FreeBSD) mod_ssl/2.0.55 OpenSSL/0.9.8a mod_python/3.2.10 Python/2.4.3 PHP/4.4.2 DAV/2 SVN/1.4.3,1
+CAMEO-httpd,1
+Courier-Mail-Server/3.06,1
+QRATOR,1
+Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9,1
+CrushFTP HTTP Server,1
+Apache/2.2.26 (Unix) PHP/5.2.17,1
+TRMB/1.2,1
+Apache/2.2.22 (Win32) PHP/5.3.6,1
+Apache/2.2.6 (FreeBSD) mod_ssl/2.2.6 OpenSSL/0.9.7e-p1 DAV/2 PHP/5.2.5 with Suhosin-Patch,1
+Apache/2.2.3 (Unix) DAV/2 PHP/5.2.0 mod_ssl/2.2.3 OpenSSL/0.9.8b,1
+Apache/2.2.31 (FreeBSD) PHP/5.6.25 mod_ssl/2.2.31 OpenSSL/1.0.1p-freebsd DAV/2,1
+Apache/2.2.17 (FreeBSD) PHP/5.4.13 mod_ssl/2.2.17 OpenSSL/0.9.8q DAV/2 mod_perl/2.0.4 Perl/v5.10.1,1
+Apache/2.2.9 (Debian) DAV/2 SVN/1.5.1 mod_ldap_userdir/1.1.14 PHP/5.2.6-1+lenny16 with Suhosin-Patch mod_perl/2.0.4 Perl/v5.10.0,1
+Apache/2.4.23 (Gentoo) PHP/7.0.12-pl0-gentoo,1
+Apache/1.3.31 (Unix) PHP/4.3.8,1
+Werkzeug/0.9.1 Python/2.7.5,1
+nginx/1.6.2 + Phusion Passenger 3.0.15 (mod_rails/mod_rack),1
+Kerio Connect 7.2.2,1
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5 with Suhosin-Patch,1
+Nucleus/4.3 UPnP/1.0 Virata-EmWeb/R6_2_0,1
+Brovotech/2.0.0,1
+Apache/2.2.8 (FreeBSD) mod_ssl/2.2.8 OpenSSL/0.9.7e-p1 DAV/2 PHP/5.2.6 with Suhosin-Patch,1
+Apache/2.2.26 (Win32) PHP/5.3.27,1
+Apache/2.2.11 (Win32) PHP/5.3.5,1
+Apache/2.2.16 (Debian) mod_jk/1.2.30 PHP/5.3.3-7+squeeze26 with Suhosin-Patch mod_ssl/2.2.16 OpenSSL/0.9.8o,1
+Indy/10.0.52,1
+Apache/2.2.9 (Debian) DAV/2 SVN/1.5.1 mod_ssl/2.2.9 OpenSSL/0.9.8g mod_jk/1.2.26,1
+Kerio Connect 9.0.3,1
+Apache/1.3.34 (Debian) mod_gzip/1.3.26.1a mod_ssl/2.8.25 OpenSSL/0.9.8c,1
+Apache/2.2.18 (Win32) PHP/5.3.27,1
+fexsrv,1
+WildFly/8,1
+Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8b DAV/2 PHP/5.2.6,1
+Apache/2.2.22 (Win32) PHP/5.3.5 DAV/2 SVN/1.8.10,1
+Apache/2.2.8 (Win32) mod_ssl/2.2.8 OpenSSL/0.9.8d proxy_html/3.0.1 Line-Edit/1.0.0,1
+Apache/2.2.24 (Unix) PHP5/5.5.24 mod_ssl/2.2.24 OpenSSL/1.0.0p,1
+Serv-U/14.0.2.0,1
+Apache/1.3.33 (Win32) PHP/5.1.6,1
+Webs,1
+Apache/2.4.12 (Ubuntu) PHP/5.5.37-1+deprecated+dontuse+deb.sury.org~precise+1 OpenSSL/1.0.1 mod_wsgi/3.4 Python/2.7.3,1
+Apache/2.2.31 (Win64) PHP/5.4.12,1
+Apache/2.2.0 (Linux/SUSE),1
+Apache/2.2.19 (Win32) DAV/2,1
+Apache/2.2.2 (Win32),1
+Serv,1
+Apache/2.4.16 (FreeBSD) OpenSSL/1.0.1s-freebsd PHP/5.5.29,1
+Apache/2.2.16 (Debian) mod_ssl/2.2.16 OpenSSL/0.9.8o mod_fcgid/2.3.6 Phusion_Passenger/4.0.42,1
+nginx/0.9.4,1
+Apache/2.2.26 (FreeBSD) PHP/5.4.25 mod_scgi/1.12,1
+VCS-VideoJet-Webserver,1
+GSE,1
+-,1
+nginx/1.2.3 + Phusion Passenger 3.0.17 (mod_rails/mod_rack),1
+nginx/1.5.3,1
+Allegro-Software-RomPager/4.06,1
+Apache/2.0.49 (Win32) PHP/4.3.5,1
+CE_E,1
+Apache/2.2.20 (Win32) PHP/5.2.17,1
+Apache/2.2.16 (FreeBSD) mod_ssl/2.2.16 OpenSSL/0.9.8n DAV/2,1
+adf_http_server/4.2.0167,1
+,0
